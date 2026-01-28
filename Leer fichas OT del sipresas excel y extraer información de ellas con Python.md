@@ -27,10 +27,10 @@ Notas:
 
 
 **Captura de Pantalla**
-![[./ANEXOS/Pasted image 20250709135952.png]]
+![[ANEXOS/Pasted%20image%2020250709135952.png]]
 fichero de salida generado formato xlsx: (debes de actualizar el tamaño de las columnas, para que se vea bien)
-![[./ANEXOS/Pasted image 20250709140032.png]]
+![[ANEXOS/Pasted%20image%2020250709140032.png]]
 
 
 **Código Fuente:**
-![[./ANEXOS/ProcesarListasExcelOT-Sipresas v2.00.py]]
+![[ANEXOS/ProcesarListasExcelOT-Sipresas v2.00.py]]

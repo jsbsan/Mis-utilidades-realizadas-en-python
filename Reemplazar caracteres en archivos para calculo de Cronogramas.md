@@ -18,7 +18,7 @@ el signo euro "€" por nada
 
 <span style="background:#b1ffff">Interfaz:</span>
 
-![[./ANEXOS/Pasted image 20251026090002.png]]
+![[ANEXOS/Pasted%20image%2020251026090002.png]]
 
 <span style="background:#b1ffff">Codigo fuente:</span>
-![[./ANEXOS/SubCronogramaLogging.py]]
+![[ANEXOS/SubCronogramaLogging.py]]

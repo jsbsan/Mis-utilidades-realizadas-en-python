@@ -25,7 +25,7 @@ pip install PyAutoGUI
 
 <span style="background:#b1ffff">Captura de pantalla:</span>
 
-![[./ANEXOS/Pasted image 20250710101726.png]]
+![[ANEXOS/Pasted%20image%2020250710101726.png]]
 
 
 ### Código:
@@ -63,4 +63,4 @@ Este patrón encapsula una solicitud (un comando) como un objeto, permitiendo pa
 
 
 CODIGO PATRON COMANDO
-![[./ANEXOS/automatizarOOP.py]]
+![[ANEXOS/automatizarOOP.py]]
