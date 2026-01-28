@@ -7,10 +7,10 @@ Quiero un script en Python con interfaz gráfica pyqt6 que dado un PDF extraiga 
 
 
 <span style="background:#affad1">Captura de pantalla:</span>
-![[ANEXOS/Pasted%20image%2020251031093052.png]]
+![ANEXOS/Pasted%20image%2020251031093052.png]  
 
 <span style="background:#affad1">Codigo:</span>
-![[Extrae comentarios y anotaciones de texto de un pdf dado.py]]
+![Extrae comentarios y anotaciones de texto de un pdf dado.py]  
 
 La linea
 Estaba dando problemas la linea

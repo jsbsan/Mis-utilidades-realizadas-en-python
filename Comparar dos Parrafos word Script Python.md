@@ -11,7 +11,7 @@ Compara dos parrafos y te muestra las diferencias
 <span style="background:#b1ffff">en el resultado, indica tambien ademas de la palabra cambiada, la situación de la misma en el párrafo original</span>
  
 **Captura de pantalla:**
-![[ANEXOS/Pasted%20image%2020250507134732.png]]
+![ANEXOS/Pasted%20image%2020250507134732.png]  
 
 
-**Codigo Fuente:**![[ANEXOS/ComparadorParrafosColoreadoSituacion.py]]
+**Codigo Fuente:**![ANEXOS/ComparadorParrafosColoreadoSituacion.py]  

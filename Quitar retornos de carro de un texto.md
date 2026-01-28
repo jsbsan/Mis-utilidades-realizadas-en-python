@@ -11,8 +11,8 @@ Añadele al código que me has dado un botón para pegar el contenido del portap
 Quiero que el boton de Pegar el texto del portapapeles, al darle tambien ejecute la parte de quitar los retornos de carro
 
 **Captura de Pantalla:**
-![[ANEXOS/Pasted%20image%2020250621090737.png]]
+![ANEXOS/Pasted%20image%2020250621090737.png]  
 
 
 **Código:**
-![[quitarRetornosDeCarroTexto.py]]
+![quitarRetornosDeCarroTexto.py]  

@@ -30,12 +30,12 @@ Quiero que le añadas una nueva opcion llamemolas d) donde ponga delante del nom
 Modifica el código y lo corrige.
 
 **- captura de pantalla**
-![[ANEXOS/Pasted%20image%2020250702124923.png]]
+![ANEXOS/Pasted%20image%2020250702124923.png]  
 
 - **código**
-![[ANEXOS/RenombrarFichero.py]]
+![ANEXOS/RenombrarFichero.py]  
 **- Explicación del programa:**
-[[Quiero que me expliques el siguiente código de py....pdf]]
+[[Quiero que me expliques el siguiente código de py....pdf]  
 
 **- Diagrama de flujo:**
 ``` mermaid

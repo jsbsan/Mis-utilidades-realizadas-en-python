@@ -6,15 +6,15 @@ Realizado por: Gemini 2.5
 ### Versión 4: Comparar y hacer informe final en formato txt
 'Se le añade al codigo la función de pasar las diferencias que ha encontrado a un unico fichero .TXT'
 
-Extra: [[Como mejorar el código de un programa ya creado con IA añadiendo nuevas funcionalidades]]
+Extra: [[Como mejorar el código de un programa ya creado con IA añadiendo nuevas funcionalidades]  
 
 **Captura de pantalla:
   
 | pantalla principal                   | salida txt                           |
 | ------------------------------------ | ------------------------------------ |
-| ![[ANEXOS/Pasted%20image%2020251126103418.png]] | ![[ANEXOS/Pasted%20image%2020251126103444.png]] |
+| ![ANEXOS/Pasted%20image%2020251126103418.png]   | ![ANEXOS/Pasted%20image%2020251126103444.png]   |
 **Código fuente: 
-![[ANEXOS/comparador_excel_e_informe.py]]
+![ANEXOS/comparador_excel_e_informe.py]  
   
 
 
@@ -31,10 +31,10 @@ Extra: [[Como mejorar el código de un programa ya creado con IA añadiendo nuev
 <span style="background:#b1ffff">No uses threading, ya que me da error</span>
 
 **Captura de pantalla:**
-![[ANEXOS/Pasted%20image%2020250425141114.png]]
+![ANEXOS/Pasted%20image%2020250425141114.png]  
 
 
-Código fuente: ![[comparador_excel_pyqt.py).py]]
+Código fuente: ![comparador_excel_pyqt.py).py]  
 
 
 ### Version 2:
@@ -46,10 +46,10 @@ Código fuente: ![[comparador_excel_pyqt.py).py]]
 <span style="background:#b1ffff">-Quiero que le añadas, que por cda pestaña comparada, cree una area de textocon el reporte de diferencias de esa pestaña</span>
 
 Captura de pantalla:
-![[ANEXOS/Pasted%20image%2020250425131655.png]]
+![ANEXOS/Pasted%20image%2020250425131655.png]  
 
 Codigo fuente:
-![[CompararExcelPorPestañas.py]]
+![CompararExcelPorPestañas.py]  
 
 ---------------------------
 ### version 1
@@ -59,6 +59,6 @@ Codigo fuente:
 <span style="background:#b1ffff">-Muestre las diferencias en un informe</span>
 
 **Captura de pantalla:**
-![[ANEXOS/Pasted%20image%2020250425130630.png]]
+![ANEXOS/Pasted%20image%2020250425130630.png]  
 Código:
-![[ANEXOS/CompararExcel.py]]
+![ANEXOS/CompararExcel.py]  

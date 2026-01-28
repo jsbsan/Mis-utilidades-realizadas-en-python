@@ -8,7 +8,7 @@ Sirve para comparar el contenido de dos archivos en formato PDF, mostrandote las
 2) No funciona el "arrastra y suelta", por mejor un boton para seleccionar los archivos
 
 <span style="background:#b1ffff">Captura:</span>
-![[ANEXOS/Pasted%20image%2020250619205319.png]]
+![ANEXOS/Pasted%20image%2020250619205319.png]  
 
 Código:
-![[ANEXOS/comparadorPDF.py]]
+![ANEXOS/comparadorPDF.py]  

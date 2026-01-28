@@ -9,7 +9,7 @@ debe de haber un boton para que el resultado del escaneo se copie al portapapele
 
 | pantallazo inicial                   | resultado                                                                                |
 | ------------------------------------ | ---------------------------------------------------------------------------------------- |
-| ![[ANEXOS/Pasted%20image%2020251218081805.png]] | Copiado al portapapeles y pegado en una hoja excel: ![[ANEXOS/Pasted%20image%2020251218082056.png]] |
+| ![ANEXOS/Pasted%20image%2020251218081805.png]   | Copiado al portapapeles y pegado en una hoja excel: ![ANEXOS/Pasted%20image%2020251218082056.png]   |
 |                                      |                                                                                          |
 
 ### Código:
@@ -178,4 +178,4 @@ if __name__ == "__main__":
 
 ### Programa
 
-![[ANEXOS/MostrarPaginasPdf.py]]
+![ANEXOS/MostrarPaginasPdf.py]  
