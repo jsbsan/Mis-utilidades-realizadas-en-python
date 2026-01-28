@@ -3,10 +3,10 @@
 
 
 Programa en Python que con "coger y soltar"  las imágenes crea un fichero .docx
-![ANEXOS/Pastedimage20250408162029.png|300]  
+![-](./ANEXOS/Pastedimage20250408162029.png)  
 
 Fichero:
-![ANEXOS/ImagenesAdocx.py]  
+![-](./ANEXOS/ImagenesAdocx.py)  
 
 
 Código:

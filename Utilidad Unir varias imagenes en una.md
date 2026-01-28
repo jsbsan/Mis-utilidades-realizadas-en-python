@@ -81,4 +81,4 @@ if __name__ == "__main__":
 
 
 Software en funcionamiento:
-![ANEXOS/Pastedimage20250406131250.png]  
+![-](./ANEXOS/Pastedimage20250406131250.png)  

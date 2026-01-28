@@ -6,7 +6,7 @@ HAZ UN SCRIPT EN PYTHON CON ENTORNO VISUAL, QUE EL USUARIO PEGUE UN TEXTO Y EL P
 añade un boton al interfaz para borrar los textos original y convertido
 
 <span style="background:#b1ffff">Captura de Pantalla:</span>
-![ANEXOS/Pastedimage20251021101951.png|300]  
+![-](./ANEXOS/Pastedimage20251021101951.png)  
 
 <span style="background:#b1ffff">Codigo</span>
 ```python
@@ -187,4 +187,4 @@ ventana.mainloop()
 ```
 
 <span style="background:#b1ffff">archivo:</span>
-![ANEXOS/CambioTABporRetornoCarro.py]  
+![-](./ANEXOS/CambioTABporRetornoCarro.py)  

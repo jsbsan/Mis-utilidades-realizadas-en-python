@@ -90,12 +90,12 @@ plt.show()
 ```
 
 <span style="background:#b1ffff">Grafica:</span>
-![ANEXOS/Pastedimage20251215145037.png]  
+![-](./ANEXOS/Pastedimage20251215145037.png)  
 
 <span style="background:#b1ffff">Código fuente:</span>
-![ANEXOS/DistribucionHorariaTrafico 1.py]  
+![-](./ANEXOS/DistribucionHorariaTrafico%201.py)  
 
 
 **Nota.**
 Leyenda personalizada: hay que usar  patches de la libreria matplotlib
-[[python online pagina web]  
+[[python online pagina web)  
