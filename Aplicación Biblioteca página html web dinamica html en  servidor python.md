@@ -42,9 +42,9 @@ La base de datos sqlite (biblioteca.db) la crea si no existe el fichero.
 
 | ordenador                                                                  | movil                                              |
 | -------------------------------------------------------------------------- | -------------------------------------------------- |
-| Ventana de Inventario y Gestión: ![[Pasted image 20251224124345.png\|800]] | ![[Pasted image 20251224124952.png]]               |
-| Pestaña de Busqueda: ![[Pasted image 20251224131142.png\|800]]             | Servidor:![[Pasted image 20251224125037.png\|400]] |
+| Ventana de Inventario y Gestión: ![[./ANEXOS/Pasted image 20251224124345.png\|800]] | ![[./ANEXOS/Pasted image 20251224124952.png]]               |
+| Pestaña de Busqueda: ![[./ANEXOS/Pasted image 20251224131142.png\|800]]             | Servidor:![[./ANEXOS/Pasted image 20251224125037.png\|400]] |
 
 
 <span style="background:#affad1">Código:</span>
-![[app.py]]
+![[./ANEXOS/app.py]]

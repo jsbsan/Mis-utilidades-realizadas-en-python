@@ -9,7 +9,7 @@ genera un script en python donde se selecciones un directorio y muestre el lista
 pip install pyperclip
 
 **Captura de Pantalla**
-![[Pasted image 20250717205005.png]]
+![[./ANEXOS/Pasted image 20250717205005.png]]
 
 **Codigo**
-![[listarFicheros.py]]
+![[./ANEXOS/listarFicheros.py]]

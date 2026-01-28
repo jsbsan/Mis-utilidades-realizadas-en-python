@@ -16,7 +16,7 @@ Necesito un script en python que haga lo siguiente:
 -tener un sistema de logging 
 
 <span style="background:#b1ffff">Captura de Pantalla:</span>
-![[Pasted image 20251129195618.png]]
+![[./ANEXOS/Pasted image 20251129195618.png]]
 
 <span style="background:#b1ffff">Código:</span>
-![[ejecutor.py]]
+![[./ANEXOS/ejecutor.py]]

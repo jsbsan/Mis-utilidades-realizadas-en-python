@@ -12,15 +12,15 @@ Registro Logingg de lo que hace
 
 **Captura de Pantalla:
 
-![[Pasted image 20251128101857.png|300]]
+![[./ANEXOS/Pasted image 20251128101857.png|300]]
 **Código:**
-![[UnirFicherosTXTconLogging 1.py]]
+![[./ANEXOS/UnirFicherosTXTconLogging 1.py]]
 ## Version V 0.00 
 **Captura de pantalla:**
-![[Pasted image 20250703203637.png]]
+![[./ANEXOS/Pasted image 20250703203637.png]]
 
-![[Pasted image 20250703203846.png]]
+![[./ANEXOS/Pasted image 20250703203846.png]]
 Y guardar el resultado poniendo nombre al archivo:
-![[Pasted image 20250703204006.png]]
+![[./ANEXOS/Pasted image 20250703204006.png]]
 **Codigo Fuente:**
-![[UnirFicherosTXT.py]]
+![[./ANEXOS/UnirFicherosTXT.py]]

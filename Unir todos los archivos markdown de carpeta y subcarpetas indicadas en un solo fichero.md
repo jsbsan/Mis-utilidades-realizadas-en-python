@@ -14,10 +14,10 @@ crea un script en python que haga lo siguiente: - tenga interfaz visual tk
 
 | formulario principal                 | resultante                           |
 | ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20251128121054.png]] | ![[Pasted image 20251128121513.png]] |
+| ![[./ANEXOS/Pasted image 20251128121054.png]] | ![[./ANEXOS/Pasted image 20251128121513.png]] |
 
 
 
 <span style="background:#b1ffff">Código Fuente:</span>
 
-![[UnirContenidoMarkDonwDeCarpetas.py]]
+![[./ANEXOS/UnirContenidoMarkDonwDeCarpetas.py]]

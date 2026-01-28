@@ -90,10 +90,10 @@ plt.show()
 ```
 
 <span style="background:#b1ffff">Grafica:</span>
-![[Pasted image 20251215145037.png]]
+![[./ANEXOS/Pasted image 20251215145037.png]]
 
 <span style="background:#b1ffff">Código fuente:</span>
-![[DistribucionHorariaTrafico 1.py]]
+![[./ANEXOS/DistribucionHorariaTrafico 1.py]]
 
 
 **Nota.**

@@ -12,7 +12,7 @@ me puedes hacer un script en python con entorno PyQT6, para pegar un texto y que
 pip install PyQt6 pyttsx3
 
 **Captura de pantalla:**
-![[Pasted image 20250604123439.png]]
+![[./ANEXOS/Pasted image 20250604123439.png]]
 
  Código fuente:  
-![[LeerEnVozAlta.py]]
+![[./ANEXOS/LeerEnVozAlta.py]]
