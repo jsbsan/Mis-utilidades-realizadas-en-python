@@ -15,7 +15,7 @@ pip install PyQt5 python-docx
 
 
 **Captura de pantalla:**
-![ANEXOS/Pasted%20image%2020250426103002.png]  
+![ANEXOS/Pastedimage20250426103002.png]  
 
 Codifo fuente:
 ![ANEXOS/ComparaWords.py]  

@@ -14,7 +14,7 @@ crea un script en python que haga lo siguiente: - tenga interfaz visual tk
 
 | formulario principal                 | resultante                           |
 | ------------------------------------ | ------------------------------------ |
-| ![ANEXOS/Pasted%20image%2020251128121054.png]   | ![ANEXOS/Pasted%20image%2020251128121513.png]   |
+| ![ANEXOS/Pastedimage20251128121054.png]   | ![ANEXOS/Pastedimage20251128121513.png]   |
 
 
 

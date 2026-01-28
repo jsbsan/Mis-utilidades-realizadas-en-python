@@ -25,7 +25,7 @@ pip install PyAutoGUI
 
 <span style="background:#b1ffff">Captura de pantalla:</span>
 
-![ANEXOS/Pasted%20image%2020250710101726.png]  
+![ANEXOS/Pastedimage20250710101726.png]  
 
 
 ### Código:

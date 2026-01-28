@@ -6,7 +6,7 @@ hazme un script en python para unir todos los ficheros pdf que hay en una carpet
 
 
 <span style="background:#b1ffff">Pantallazo:</span>
-![ANEXOS/Pasted%20image%2020251218075114.png]  
+![ANEXOS/Pastedimage20251218075114.png]  
 
 
 Codigo fuente:

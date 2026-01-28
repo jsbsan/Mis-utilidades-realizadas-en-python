@@ -33,7 +33,7 @@ Quiero una gráfica para la BT que incluya desde el 2023 hasta el 2030
 
 
 **Generación de imagen:
-![ANEXOS/Pasted%20image%2020250910085836.png]  
+![ANEXOS/Pastedimage20250910085836.png]  
 
 **Código:
 
@@ -222,4 +222,4 @@ plt.savefig('cronograma_at_2023-2030.png')
 plt.show()
 ```
 
-![ANEXOS/Pasted%20image%2020250910091207.png]  
+![ANEXOS/Pastedimage20250910091207.png]  

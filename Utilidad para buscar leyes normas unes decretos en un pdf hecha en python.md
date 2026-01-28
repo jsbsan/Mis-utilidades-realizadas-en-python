@@ -6,7 +6,7 @@ Esta utilidad esta desarrollada en python con entorno grafico donde le sueltas u
 
 | captura pantalla                     | fichero .txt generado                     |  
 | ------------------------------------ | ----------------------------------------- |  
-| ![ANEXOS/Pasted%20image%2020250412100623.png]   | ![ANEXOS/Pasted%20image%2020250412100522.png\|500]   |  
+| ![ANEXOS/Pastedimage20250412100623.png]   | ![ANEXOS/Pastedimage20250412100522.png\|500]   |  
 Prompt usado: (a parte de modificar manualmente la linea del patron (linea 24) para añadir alguna palabra más)
 1. haz un programa en python que lea un fichero pdf y que extraiga a un fichero de texto plano, los parrafos que tenga leyes, reales decretos, normas une, "R.D." y "UNE"
 2. Quiero que tenga interfaz visual y que le pueda arrastra y soltar el fichero pdf

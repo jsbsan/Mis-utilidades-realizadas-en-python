@@ -30,7 +30,7 @@ Quiero que le añadas una nueva opcion llamemolas d) donde ponga delante del nom
 Modifica el código y lo corrige.
 
 **- captura de pantalla**
-![ANEXOS/Pasted%20image%2020250702124923.png]  
+![ANEXOS/Pastedimage20250702124923.png]  
 
 - **código**
 ![ANEXOS/RenombrarFichero.py]  

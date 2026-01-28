@@ -41,15 +41,15 @@ C:\Users\USER\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Pytho
 
 | pantallazo                           | fichero .dot                         | 
 | ------------------------------------ | ------------------------------------ | 
-| ![ANEXOS/Pasted%20image%2020251126113735.png]   | ![ANEXOS/Pasted%20image%2020251126113914.png]   |
+| ![ANEXOS/Pastedimage20251126113735.png]   | ![ANEXOS/Pastedimage20251126113914.png]   |
 
 **Visor del fichero .dot en viz-js.com 
 > modifico la linea rankdir="LR" a rankdir="" 
 > para que ordene de la forma que más me gusta el resultado
-![ANEXOS/Pasted%20image%2020251126114035.png]  
+![ANEXOS/Pastedimage20251126114035.png]  
 
 Nota: tambien genera el siguiente grafico (pero no es editable)
-![ANEXOS/Pasted%20image%2020251126114451.png|200]  
+![ANEXOS/Pastedimage20251126114451.png|200]  
 
 <span style="background:#b1ffff">Código fuente:</span>
 ![ANEXOS/Excel_Grafica_Enlaces_PestañasGUI.py]  

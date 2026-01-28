@@ -42,8 +42,8 @@ La base de datos sqlite (biblioteca.db) la crea si no existe el fichero.
 
 | ordenador                                                                  | movil                                              |
 | -------------------------------------------------------------------------- | -------------------------------------------------- |
-| Ventana de Inventario y Gestión: ![ANEXOS/Pasted%20image%2020251224124345.png\|800]   | ![ANEXOS/Pasted%20image%2020251224124952.png]                 |
-| Pestaña de Busqueda: ![ANEXOS/Pasted%20image%2020251224131142.png\|800]               | Servidor:![ANEXOS/Pasted%20image%2020251224125037.png\|400]   |
+| Ventana de Inventario y Gestión: ![-](.ANEXOS/Pastedimage20251224124345.png\|800)   | (.ANEXOS/Pastedimage20251224124952.png)                 |
+| Pestaña de Busqueda: ![ANEXOS/Pastedimage20251224131142.png\|800]               | Servidor:![ANEXOS/Pastedimage20251224125037.png\|400]   |
 
 
 <span style="background:#affad1">Código:</span>

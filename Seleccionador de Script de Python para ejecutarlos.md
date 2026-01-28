@@ -7,7 +7,7 @@ Prompt:
 
 
 Captura de Pantalla:
-![ANEXOS/Pasted%20image%2020250509120115.png]  
+![ANEXOS/Pastedimage20250509120115.png]  
 
 Codigo fuente:
 ![ANEXOS/SeleccionadorDeProgramasPYTHON.py]  
