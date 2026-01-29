@@ -13,12 +13,16 @@ Prompt usado: (a parte de modificar manualmente la linea del patron (linea 24) p
 3. Quiero que tambien los párrafos que tengan las palabras "BOE", "B.O.E.", "O.M." y "OM ", los extraiga, por favor modifica el patrón de expresión regular del programa anterior
 4. ¿me lo puedes dar completo el codigo?
 
-**Extra para instalar:**
+**Extra para instalar:**  
+``` bash
 > pip install PyMuPDF
 > pip install tkinterdnd2-universal
+```
 
-![-](./ANEXOS/ExtraerLeyesRDv2.00.py)  
+**Fichero:**  
+[descargar](./ANEXOS/ExtraerLeyesRDv2.00.py)  
 
+**Código fuente:**  
 ``` python
 import tkinter as tk
 from tkinter import ttk  # Para widgets más modernos

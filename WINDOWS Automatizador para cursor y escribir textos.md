@@ -24,7 +24,7 @@ pip install PyQt6
 pip install PyAutoGUI
 
 <span style="background:#b1ffff">Captura de pantalla:</span>
-
+  
 ![-](./ANEXOS/Pastedimage20250710101726.png)  
 
 
@@ -33,7 +33,7 @@ pip install PyAutoGUI
 
 
 ### EXTRA:  CODIGO USANDO EL PATRON COMANDO
-<span style="background:#b1ffff">PROMPT:</span>
+PROMPT:  
 ¿puedes aplicar al codigo fuente el patron comando de OOP?
 #### **Ventajas de esta nueva estructura**
 
@@ -62,5 +62,5 @@ Este patrón encapsula una solicitud (un comando) como un objeto, permitiendo pa
 5. **Client (Cliente)**: La parte del código que lee y analiza el archivo de texto actuará como cliente, creando la instancia del comando concreto que corresponde a cada línea.
 
 
-CODIGO PATRON COMANDO
-![-](./ANEXOS/automatizarOOP.py)  
+CODIGO PATRON COMANDO:  
+[descargar](./ANEXOS/automatizarOOP.py)  

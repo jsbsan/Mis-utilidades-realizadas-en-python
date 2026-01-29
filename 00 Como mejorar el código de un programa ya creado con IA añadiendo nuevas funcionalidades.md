@@ -4,11 +4,11 @@ Gemini
 
 
 
-<span style="background:#b1ffff">Prompt:</span>
+**Prompt:**  
 Tengo este script de Python que actualmente hace [describe brevemente qué hace]. Quiero añadir una funcionalidad que [describe detalladamente qué quieres lograr].
 Aquí está mi código actual:
 ``` python
-codigo en python
+codigo en python...   
 ```
 
 Nueva Funcionalidad: Modifica el script para que, tenga un botón para guardar todas las diferencias que haya encontrado al comparar los archivos excel, en un fichero .txt

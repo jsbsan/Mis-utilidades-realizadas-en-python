@@ -1,0 +1,32 @@
+00 Como mejorar el código de un programa ya creado con IA añadiendo nuevas funcionalidades.md
+ANEXOS
+EXCEL Comparar dos archivos EXCEL y decirte las diferencias.md
+EXCEL Mostrar enlaces entre pestañas de una hoja de calculo excel.md
+IMAGEN Código Gráfica cronograma para inspecciones de Ocas de BT y AT de presas.md
+IMAGEN Imagenes a un fichero docx.md
+IMAGEN Utilidad Unir varias imagenes en una.md
+LICENSE
+OTROS Leer fichas OT del sipresas excel y extraer información de ellas con Python.md
+OTROS Python crear Gráfica de distribución horaria de tráfico.md
+OTROS Reemplazar caracteres en archivos para calculo de Cronogramas.md
+OTROS Utilidad para buscar leyes normas unes decretos en un pdf hecha en python.md
+PDF Comparar dos archivos pdf y que muestre las diferencias.md
+PDF Contar numero de paginas de pdf de una carpeta y subcarpeta.md
+PDF Extraer Anotaciones de texto y Comentarios de un PDF.md
+PDF Extraer Comentarios de PDF.md
+PDF Unir Pdf de una carpeta en uno solo.md
+README.md
+TXT Quitar retornos de carro de un texto.md
+TXT Reemplazar Tabulador por Retorno de Carro.md
+TXT Unir todos los archivos markdown de carpeta y subcarpetas indicadas en un solo fichero.md
+TXT Unir varios ficheros de texto plano en un único fichero.md
+WEB Aplicación Biblioteca página html web dinamica html en  servidor python.md
+WINDOWS Automatizador para cursor y escribir textos.md
+WINDOWS Leer en voz alta.md
+WINDOWS Listar ficheros de un directorio.md
+WINDOWS Renombrado de Archivos.md
+WINDOWS Script ejecutor de codigo python.md
+WINDOWS Seleccionador de Script de Python para ejecutarlos.md
+WORD Comparar dos Parrafos word Script Python.md
+WORD Comparar dos documentos word Script Python.md
+salida.txt

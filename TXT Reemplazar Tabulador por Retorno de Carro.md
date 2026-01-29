@@ -1,14 +1,14 @@
 #utilidades/programación 
 #python 
 
-<span style="background:#b1ffff">prompt:</span>
+**Prompt:**  
 HAZ UN SCRIPT EN PYTHON CON ENTORNO VISUAL, QUE EL USUARIO PEGUE UN TEXTO Y EL PROGRAMA DEVUELVA EL MISMO TEXTO PERO CAMBIANDO LOS TABULADORES POR RETORNOS DE CARROS.
-añade un boton al interfaz para borrar los textos original y convertido
-
-<span style="background:#b1ffff">Captura de Pantalla:</span>
+Añade un boton al interfaz para borrar los textos original y convertido
+   
+**Captura de Pantalla:**  
 ![-](./ANEXOS/Pastedimage20251021101951.png)  
 
-<span style="background:#b1ffff">Codigo</span>
+**Codigo:**  
 ```python
 import tkinter as tk
 
@@ -186,5 +186,5 @@ boton_limpiar.pack(side=tk.RIGHT, expand=True, fill='x', padx=(5, 0))
 ventana.mainloop()
 ```
 
-<span style="background:#b1ffff">archivo:</span>
-![-](./ANEXOS/CambioTABporRetornoCarro.py)  
+**Archivo:**  
+[descarga](./ANEXOS/CambioTABporRetornoCarro.py)  

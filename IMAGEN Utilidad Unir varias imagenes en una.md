@@ -2,8 +2,9 @@
 #utilidades 
 #utilidades/programación 
 
+**Uso:** unir varias imágenes en una sola.  
 
-Nota: Previamente instalar las librerias siguientes
+**Nota:** Previamente instalar las librerias siguientes  
 ``` bash
 pip install tkinterdnd2
 ```
@@ -80,5 +81,5 @@ if __name__ == "__main__":
 ```
 
 
-Software en funcionamiento:
+**Software en funcionamiento:**  
 ![-](./ANEXOS/Pastedimage20250406131250.png)  

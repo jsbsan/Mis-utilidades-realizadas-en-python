@@ -2,14 +2,14 @@
 #python 
 
 
-Programa en Python que con "coger y soltar"  las imágenes crea un fichero .docx
+Programa en Python que con "coger y soltar"  las imágenes crea un fichero .docx  
 ![-](./ANEXOS/Pastedimage20250408162029.png)  
 
-Fichero:
-![-](./ANEXOS/ImagenesAdocx.py)  
+Codigo fuente fichero:   
+[descargar-](./ANEXOS/ImagenesAdocx.py)  
 
 
-Código:
+Código:  
 ``` python
 import tkinter as tk
 from tkinter import ttk  # Para widgets mejorados (opcional pero recomendado)

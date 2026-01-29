@@ -1,15 +1,16 @@
-<span style="background:#b1ffff">Promp:</span>
-hazme un script en python para unir todos los ficheros pdf que hay en una carpeta y subcarpeta en un solo pdf. Tiene que ser interfaz visual que permita elegir la carpeta, y mostrar el logging,
+**Prompt:**  
+Hazme un script en python para unir todos los ficheros pdf que hay en una carpeta y subcarpeta en un solo pdf. Tiene que ser interfaz visual que permita elegir la carpeta, y mostrar el logging.
 
 
-**Nota:** Tras no encontrar la libreria y mostrar el error a gemini, me cambia el código para que en caso de que no este instalada la libreria la instale
+**Nota:**  
+Tras no encontrar la libreria y mostrar el error a gemini, me cambia el código para que en caso de que no este instalada la libreria la instale
 
 
-<span style="background:#b1ffff">Pantallazo:</span>
+**Pantallazo:**   
 ![-](./ANEXOS/Pastedimage20251218075114.png)  
 
 
-Codigo fuente:
+**Codigo fuente:**  
 
 ``` python
 import sys
@@ -172,5 +173,6 @@ if __name__ == "__main__":
 ```
 
 
-Fichero:
-![-](./ANEXOS/FusionadorPdf.py)  
+**Código fuente:**  
+[descargar](./ANEXOS/FusionadorPdf.py)  
+

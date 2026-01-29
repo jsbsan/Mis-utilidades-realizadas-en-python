@@ -89,13 +89,15 @@ plt.legend(handles=[patch_verde, patch_azul, patch_rojo])
 plt.show()
 ```
 
-<span style="background:#b1ffff">Grafica:</span>
+**Grafica:**  
 ![-](./ANEXOS/Pastedimage20251215145037.png)  
 
-<span style="background:#b1ffff">Código fuente:</span>
-![-](./ANEXOS/DistribucionHorariaTrafico%201.py)  
+**Código fuente:**  
+[descarga](./ANEXOS/DistribucionHorariaTrafico%201.py)  
 
 
-**Nota.**
-Leyenda personalizada: hay que usar  patches de la libreria matplotlib
-[[python online pagina web)  
+**Nota.**  
+Leyenda personalizada: hay que usar  patches de la libreria matplotlib  
+[Python Online - Editor, Compiler, Interpreter, IDE](https://pythononline.net/)
+
+

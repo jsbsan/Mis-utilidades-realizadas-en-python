@@ -32,10 +32,10 @@ Quiero una gráfica para la BT que incluya desde el 2023 hasta el 2030
 | 99     | RENEGADO          | BT   | 04/12/2025       |             |
 
 
-**Generación de imagen:
+**Generación de imagen:**  
 ![-](./ANEXOS/Pastedimage20250910085836.png)  
 
-**Código:
+**Código:**  
 
 ``` python
 import pandas as pd
