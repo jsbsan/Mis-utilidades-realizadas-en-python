@@ -6,7 +6,7 @@ Programa en Python que con "coger y soltar"  las imágenes crea un fichero .docx
 ![-](./ANEXOS/Pastedimage20250408162029.png)  
 
 Codigo fuente fichero:   
-[descargar-](./ANEXOS/ImagenesAdocx.py)  
+[descargar](./ANEXOS/ImagenesAdocx.py)  
 
 
 Código:  
