@@ -47,4 +47,4 @@ La base de datos sqlite (biblioteca.db) la crea si no existe el fichero.
 
 
 <span style="background:#affad1">Código:</span>
-![-](./ANEXOS/app.py)  
+[descargar](./ANEXOS/app.py)  
