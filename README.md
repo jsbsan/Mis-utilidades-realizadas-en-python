@@ -33,6 +33,12 @@ OTROS Python crear Gráfica de distribución horaria de tráfico
 OTROS Reemplazar caracteres en archivos para calculo de Cronogramas   
 OTROS Utilidad para buscar leyes normas unes decretos en un pdf hecha en python  
 
+---------
+### Extra
+------
+BC3 Visor de archivos .bc3
+
+
 Saludos
 
 Julio Sánchez Berro
