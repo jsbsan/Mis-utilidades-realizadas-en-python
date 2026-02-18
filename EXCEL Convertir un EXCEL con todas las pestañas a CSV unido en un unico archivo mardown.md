@@ -13,7 +13,7 @@ pip install pandas openpyxl
 pip install tabulate  
 
 **Captura:**
-![-](Pastedimage20260218092557.png)
+![-](./ANEXOS/Pastedimage20260218092557.png)
 
 **Programa:**
 [descargar](./ANEXOS/DeExcel-a-CSV-MK.py)
