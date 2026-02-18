@@ -6,6 +6,7 @@ Os dejo una colección de script de python realizados con gemini para resolver p
 00 Como mejorar el código de un programa ya creado con IA añadiendo nuevas funcionalidades  
 - EXCEL Comparar dos archivos EXCEL y decirte las diferencias    
 - EXCEL Mostrar enlaces entre pestañas de una hoja de calculo excel   
+- EXCEL Convertir un EXCEL con todas las pestañas a CSV unido en un unico archivo mardown
 - IMAGEN Código Gráfica cronograma para inspecciones de Ocas de BT y AT de presas   
 - IMAGEN Imagenes a un fichero docx   
 - IMAGEN Utilidad Unir varias imagenes en una   
