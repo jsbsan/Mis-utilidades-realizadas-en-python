@@ -34,7 +34,7 @@ Os dejo una colección de script de python realizados con gemini para resolver p
 - [OTROS Utilidad para buscar leyes normas unes decretos en un pdf hecha en python](.//Utilidades/OTROS%20Utilidad%20para%20buscar%20leyes%20normas%20unes%20decretos%20en%20un%20pdf%20hecha%20en%20python.md)
 - [OTROS Instalador de libreria de python en terminal y con entorno visual_github](.//Utilidades/OTROS%20Instalador%20de%20libreria%20de%20python%20en%20terminal%20y%20con%20entorno%20visual_github.md)
 - [OTROS Convertir md de Obsidian a  md para Github](.//Utilidades/OTROS%20Convertir%20md%20de%20Obsidian%20a%20md%20de%20Github_github.md)
-- [OTROS Enlazador](.//Utilidades/OTROS%20Enlazador_github)
+- [OTROS Enlazador](.//Utilidades/OTROS%20Enlazador_github.md)
 
 ---------
 ### Extra
