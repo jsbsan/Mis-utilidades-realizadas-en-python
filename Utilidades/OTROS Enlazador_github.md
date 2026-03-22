@@ -16,4 +16,5 @@ Quiero un script en python con entorno visual que:- seleccione un fichero tipo m
 ![-](./ANEXOS/Pastedimage20260322114224.png)
 
 <mark style="background:#b1ffff">Codigo fuente:  </mark>    
-[descargar](./ANEXOS/OtrosEnlazadorv2.00.py)
+[descargar sin usar ia](./ANEXOS/OtrosEnlazadorv2.00.py)   
+[descargar con usar ia modelo all-MiniLM-L6-v2 offline](./ANEXOS/OtrosEnlazadorIAv3.00.py)    
