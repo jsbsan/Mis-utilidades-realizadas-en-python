@@ -18,3 +18,6 @@ Quiero un script en python con entorno visual que:- seleccione un fichero tipo m
 <mark style="background:#b1ffff">Codigo fuente:  </mark>    
 [descargar sin usar ia](./ANEXOS/OtrosEnlazadorv2.00.py)   
 [descargar con usar ia modelo all-MiniLM-L6-v2 offline](./ANEXOS/OtrosEnlazadorIAv3.00.py)    
+[descargar con usar ia modelo all-MiniLM-L6-v2 offline añade tag](./ANEXOS/OtrosEnlazadorIAvTag4.00.py)    
+
+  
