@@ -32,7 +32,9 @@ Os dejo una colección de script de python realizados con gemini para resolver p
 - OTROS Leer fichas OT del sipresas excel y extraer información de ellas con Python   
 - OTROS Python crear Gráfica de distribución horaria de tráfico   
 - OTROS Reemplazar caracteres en archivos para calculo de Cronogramas   
-- OTROS Utilidad para buscar leyes normas unes decretos en un pdf hecha en python  
+- OTROS Utilidad para buscar leyes normas unes decretos en un pdf hecha en python
+- OTROS Instalador de libreria de python en terminal y con entorno visual_github
+- OTROS Convertir md de Obsidian a  md para Github
 
 ---------
 ### Extra
