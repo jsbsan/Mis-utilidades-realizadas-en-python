@@ -3,7 +3,7 @@
 Os dejo una colección de script de python realizados con gemini para resolver pequeños problemas o/y tener utilidades.  
 
 **Listado:**  
-00 Como mejorar el código de un programa ya creado con IA añadiendo nuevas funcionalidades  
+- 00 Como mejorar el código de un programa ya creado con IA añadiendo nuevas funcionalidades  
 - EXCEL Comparar dos archivos EXCEL y decirte las diferencias    
 - EXCEL Mostrar enlaces entre pestañas de una hoja de calculo excel   
 - EXCEL Convertir un EXCEL con todas las pestañas a CSV unido en un unico archivo mardown
@@ -35,6 +35,7 @@ Os dejo una colección de script de python realizados con gemini para resolver p
 - OTROS Utilidad para buscar leyes normas unes decretos en un pdf hecha en python
 - OTROS Instalador de libreria de python en terminal y con entorno visual_github
 - OTROS Convertir md de Obsidian a  md para Github
+
 
 ---------
 ### Extra
